@@ -1,2 +1,4 @@
 # app-dev
- My first repository
+HI my name is RUSSEL NULUD
+AGE 20
+HOBBY: PLAYING ONLINE GAMES 
